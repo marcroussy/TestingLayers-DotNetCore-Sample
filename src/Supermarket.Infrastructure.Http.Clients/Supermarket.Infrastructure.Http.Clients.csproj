@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Supermarket.Core\Supermarket.Core.csproj" />
+    <ProjectReference Include="..\Supermarket.Http.Utilities\Supermarket.Http.Helpers.csproj" />
+  </ItemGroup>
+
+</Project>
